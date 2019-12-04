@@ -1,0 +1,16 @@
+{
+    "name": "com.ibm",
+    "version": "1.0.0",
+    "description": "",
+    "main": "/src/index.js",
+    "scripts": {
+        "start": "node index.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Julian Lopez",
+    "license": "ISC",
+    "dependencies": {
+        "box-node-sdk": "^1.30.0",
+        "request": "^2.88.0"
+    }
+}
